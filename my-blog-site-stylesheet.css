@@ -1,0 +1,21 @@
+center{
+	background-color: #6487ff;
+	width: 100%;
+	height: 260px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 48px;
+	margin-top: -7px;
+	border: 1px solid red;
+}
+#social{
+	
+}
+#profile-picture{
+	margin-top: 5px;
+	margin-left: 2px;
+	padding-left: 460px;
+}
+body{
+	background-color: #a37a5d;
+	left: 350px;
+}
